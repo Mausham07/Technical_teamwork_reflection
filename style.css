@@ -1,0 +1,14 @@
+#week4{
+    background-color:blue;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+
+}
+
+#week4:hover{
+    background-color: yellow;
+    color: black;
+    text-decoration: dotted navajowhite;
+
+}
